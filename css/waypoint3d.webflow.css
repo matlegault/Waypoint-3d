@@ -605,6 +605,10 @@ figcaption {
   margin-bottom: 100px;
 }
 
+.collection-list-wrapper.hide {
+  display: none;
+}
+
 .footer {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2364,6 +2368,28 @@ figcaption {
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
   }
+}
+
+#w-node-d49aad5d-5c39-5e57-62c5-ada161a33b44-61a33b41 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-d49aad5d-5c39-5e57-62c5-ada161a33b4a-61a33b41 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
 }
 
 #Company.w-node-e35793ff-cb7e-d221-17c3-a38556e72d5d-1463a9f5 {
